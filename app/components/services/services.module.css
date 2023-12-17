@@ -1,0 +1,134 @@
+.serviceWrapper{
+    padding: 60px 200px;
+    background-color: #fafafa;
+    height: 80vh;
+    position: relative;
+}
+.ServiceHead{
+    text-align: center;
+}
+.serviceTitle{
+    color: #083cc2;
+    font-weight: 600;
+    font-size: 14px;
+}
+.serviceTitleMain{
+    font-size: 30px;
+    font-weight: 600;
+    color: #3a3e4a;
+    padding-bottom: 10px;
+}
+.serviceImage{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.imageHolder{
+    position: relative;
+}
+.serviceCard{
+    position: absolute;
+    background-color: #fff;
+    color: #3a3e4a;
+    padding: 15px;
+    width: 240px;
+    top: 100px;
+    left: 20px;
+}
+.serviceCard:hover{
+    position: absolute;
+    background-color: #083cc2;
+    color: #fff;
+    padding: 15px;
+    width: 240px;
+    top: 100px;
+    left: 20px;
+}
+.cardTitle{
+    display: flex;
+}
+.iconHolder{
+    margin-right: 10px;
+    background-color: #083cc2;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 5px; */
+    border-radius: 5px;
+    color: #fff;
+}
+.titleText{
+    margin-top: 25px;
+    color: #3a3e4a;
+    font-weight: 600;
+}
+.cardText{
+    font-size: 12px;
+    color: #787878;
+    padding: 10px 0px;
+}
+.cardLink{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #3a3e4a;
+}
+
+.iconWrapper{
+    background-color: #083cc2;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    position: absolute;
+    top: 170px;
+    right:100px;
+}
+.iconWrapper1{
+    background-color: #083cc2;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    position: absolute;
+    top: 170px;
+    left: 100px;
+}
+/* .iconWrapper1:hover{
+    background-color: #3a3e4a;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    position: absolute;
+    top: 170px;
+    left: 100px;
+}
+.iconWrapper:hover{
+    background-color: #3a3e4a;
+    color: #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    position: absolute;
+    top: 170px;
+    left: 100px;
+} */

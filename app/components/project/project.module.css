@@ -1,0 +1,35 @@
+.projectWrapper{
+    background-color: #083cc2;
+    padding: 60px 200px;
+    height: 50vh;
+}
+.ProjectHead{
+    text-align: center;
+}
+.projectTitle{
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+}
+.projectTitleMain{
+    font-size: 30px;
+    font-weight: 600;
+    color: #fff;
+    padding-bottom: 10px;
+}
+.projectArea{
+    padding-top: 30px;
+    display: flex;
+    gap: 10px;
+    /* justify-content: space-between; */
+}
+.imgBtn1{
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    background-color: #083cc2;
+    color: #fff;
+    width: 90px;
+    padding: 3px;
+    font-size: 12px;
+}

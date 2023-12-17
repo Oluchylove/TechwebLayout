@@ -1,0 +1,30 @@
+.header{
+    padding: 60px 200px;
+}
+.aboutMain{
+    display: flex;
+    justify-content: space-between;
+}
+.aboutText{
+    width: 50%;
+}
+.aboutTextHead{
+    color: #083cc2;
+    font-weight: 600;
+    font-size: 14px;
+}
+.aboutTextMain{
+    font-size: 30px;
+    font-weight: 600;
+    color: #3a3e4a;
+    padding-bottom: 10px;
+}
+.aboutSubText{
+    font-size: 12px;
+    padding-bottom: 20px;
+    color: #787878;
+}
+.imgWrapper{
+    /* width: 100%; */
+    position: relative;
+}
